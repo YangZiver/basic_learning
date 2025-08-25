@@ -1,6 +1,5 @@
 #include<iostream>
 #include<cmath>
-#include <cstdlib> // 包含 rand() 和 srand()
 #include <ctime>  
 using namespace std;
 
